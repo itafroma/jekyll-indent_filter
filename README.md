@@ -55,5 +55,5 @@ available via the MIT license. A copy of the license can be found in the
 [3]: http://kerotaa.hateblo.jp "kerotaa’s website"
 [4]: https://gist.github.com/kerotaa/5788650 "kerotaa’s remove-empty-lines-html.rb"
 [5]: http://marktrapp.com "Mark Trapp’s website"
-[6]: http://marktrapp.com/projects/jekyll-collapse-newlines "jekyll-archive project page"
-[7]: https://rubygems.org/gems/jekyll-itafroma-collapse_newlines "RubyGems project page"
+[6]: http://marktrapp.com/projects/jekyll-indent-filter "Jekyll Indentation Filter project page"
+[7]: https://rubygems.org/gems/jekyll-itafroma-indent_filter "RubyGems project page"
