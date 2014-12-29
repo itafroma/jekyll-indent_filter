@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ['Mark Trapp']
   s.email       = 'mark@marktrapp.com'
   s.files       = ['lib/jekyll/itafroma/indent_filter.rb']
-  s.homepage    =
-    'http://marktrapp.com/projects/jekyll-indent-filter'
-  s.license       = 'MIT'
+  s.homepage    = 'http://marktrapp.com/projects/jekyll-indent-filter'
+  s.license     = 'MIT'
 end
