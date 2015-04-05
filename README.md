@@ -54,6 +54,6 @@ available via the MIT license. A copy of the license can be found in the
 [2]: http://drawingablank.me/blog/indentation-for-injected-jekyll-content.html "Better Indentation for Injected Jekyll Content"
 [3]: http://kerotaa.hateblo.jp "kerotaa’s website"
 [4]: https://gist.github.com/kerotaa/5788650 "kerotaa’s remove-empty-lines-html.rb"
-[5]: http://marktrapp.com "Mark Trapp’s website"
-[6]: http://marktrapp.com/projects/jekyll-indent-filter "Jekyll Indentation Filter project page"
+[5]: https://marktrapp.com "Mark Trapp’s website"
+[6]: https://marktrapp.com/projects/jekyll-indent-filter "Jekyll Indentation Filter project page"
 [7]: https://rubygems.org/gems/jekyll-itafroma-indent_filter "RubyGems project page"
